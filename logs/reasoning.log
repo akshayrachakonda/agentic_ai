@@ -1,0 +1,36 @@
+[2026-02-15 18:47:16.739144] START
+[2026-02-15 18:47:16.740081] QUESTION: What is agentic AI?
+[2026-02-15 18:47:16.741084] SEARCH: Started
+[2026-02-15 18:47:20.959960] PARSE: Started
+[2026-02-15 18:47:20.960977] FETCH: https://stackoverflow.blog/2025/04/17/wait-what-is-agentic-ai/
+[2026-02-15 18:47:24.706350] FETCH SUCCESS: https://stackoverflow.blog/2025/04/17/wait-what-is-agentic-ai/
+[2026-02-15 18:47:24.707353] FETCH: https://www.ibm.com/think/topics/agentic-ai
+[2026-02-15 18:47:28.945725] FETCH SUCCESS: https://www.ibm.com/think/topics/agentic-ai
+[2026-02-15 18:47:28.946288] FETCH: https://akka.io/what-is-agentic-ai
+[2026-02-15 18:47:31.409793] FETCH SUCCESS: https://akka.io/what-is-agentic-ai
+[2026-02-15 18:47:31.410732] SUMMARIZE: Started
+[2026-02-15 18:47:31.797929] RETRY 1: 404 models/gemini-1.0-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2026-02-15 18:47:31.798930] SEARCH: Started
+[2026-02-15 18:47:32.983811] PARSE: Started
+[2026-02-15 18:47:32.983811] FETCH: https://www.ibm.com/think/topics/agentic-ai
+[2026-02-15 18:47:35.842207] FETCH SUCCESS: https://www.ibm.com/think/topics/agentic-ai
+[2026-02-15 18:47:35.842207] FETCH: https://cloud.google.com/discover/what-is-agentic-ai
+[2026-02-15 18:47:39.610420] FETCH SUCCESS: https://cloud.google.com/discover/what-is-agentic-ai
+[2026-02-15 18:47:39.611376] FETCH: https://blogs.nvidia.com/blog/what-is-agentic-ai/
+[2026-02-15 18:47:42.252832] FETCH SUCCESS: https://blogs.nvidia.com/blog/what-is-agentic-ai/
+[2026-02-15 18:47:42.253833] SUMMARIZE: Started
+[2026-02-15 18:47:42.356861] RETRY 2: 404 models/gemini-1.0-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2026-02-15 18:47:42.357861] STOP: Max retries
+[2026-02-15 18:48:30.815282] START
+[2026-02-15 18:48:30.816300] QUESTION: What is agentic AI?
+[2026-02-15 18:48:30.817299] SEARCH: Started
+[2026-02-15 18:48:32.629732] PARSE: Started
+[2026-02-15 18:48:32.630737] FETCH: https://www.ibm.com/think/topics/agentic-ai
+[2026-02-15 18:48:35.511108] FETCH SUCCESS: https://www.ibm.com/think/topics/agentic-ai
+[2026-02-15 18:48:35.512109] FETCH: https://cloud.google.com/discover/what-is-agentic-ai
+[2026-02-15 18:48:38.315143] FETCH SUCCESS: https://cloud.google.com/discover/what-is-agentic-ai
+[2026-02-15 18:48:38.315143] FETCH: https://blogs.nvidia.com/blog/what-is-agentic-ai/
+[2026-02-15 18:48:40.877548] FETCH SUCCESS: https://blogs.nvidia.com/blog/what-is-agentic-ai/
+[2026-02-15 18:48:40.878550] SUMMARIZE: Started
+[2026-02-15 18:48:44.318067] EVALUATE: Started
+[2026-02-15 18:48:44.321051] SUCCESS: Answer saved

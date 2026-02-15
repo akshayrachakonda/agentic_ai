@@ -1,0 +1,16 @@
+QUESTION:
+What is agentic AI?
+
+ANSWER:
+Agentic AI is:
+
+*   An advanced form of artificial intelligence focused on autonomous decision-making and action.
+*   Designed to operate with a higher degree of autonomy, using AI agents which are autonomous entities designed to perform specific tasks.
+*   Capable of setting goals, planning, and executing tasks with minimal human intervention, unlike traditional AI which primarily responds to commands or analyzes data.
+*   A technology that uses sophisticated reasoning and iterative planning to autonomously solve complex, multi-step problems.
+*   Able to ingest vast amounts of data from multiple sources and third-party applications to independently analyze challenges, develop strategies, and execute tasks.
+
+SOURCES:
+- https://www.ibm.com/think/topics/agentic-ai
+- https://cloud.google.com/discover/what-is-agentic-ai
+- https://blogs.nvidia.com/blog/what-is-agentic-ai/
